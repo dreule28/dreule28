@@ -56,7 +56,7 @@ Supports zooming, mouse-driven navigation, and color-shifting effects.
 
 - C (strictly norm-compliant)
 - POSIX syscalls (`fork`, `execve`, `pipe`, etc.)
-- MiniLibX for graphics
+- MLX42 for graphics
 - Parsing theory + shell grammar
 - Git & Makefiles
 
