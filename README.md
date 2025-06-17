@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm dreule 👋</h1>
+<h1 align="center">Hi, I'm Daniel 👋</h1>
 <p align="center">
-  🧠 From medicine to memory-safe systems<br>
+  🧠 From metalworking to memory-safe systems<br>
   🎓 Peer at 42 Heilbronn · Creative C hacker · Parser enjoyer
 </p>
 
@@ -8,40 +8,29 @@
 
 ## 🔧 Currently Building
 
-I'm exploring the low-level world through the 42 core curriculum — writing everything from scratch using C, Unix syscalls, and raw memory management. Here's what I've been up to:
+### 🎯 [`miniRT`](https://github.com/dreule/miniRT) (in progress)
+A beginner-friendly ray tracer written in C using MLX42.  
+Working with [@gzovkic](https://github.com/gzovkic) once again to simulate light, shadows, and 3D objects using math—not magic.
+
+> ☀️ Features in progress: ambient & diffuse lighting, object intersection, camera rotation  
+> 🔁 Objects: planes, spheres, cylinders — and soon, maybe more...
 
 ---
 
-### 🐚 [minishell](https://github.com/dreule/minishell)
+## 🐚 Highlight Projects
+
+### 🐚 [`minishell`](https://github.com/dreule/minishell)
 A custom UNIX shell built from scratch — includes pipes, redirections, signals, environment expansion, and more.
 
 > 👤 Parsing: [@dreule](https://github.com/dreule)  
 > ⚙️ Execution: [@gzovkic](https://github.com/gzovkic)
-
-#### 🔄 Parsing Logic (my part)
-- Tokenization with quote-aware splitting
-- Syntax tree for pipes & redirections
-- Variable expansion with `$VAR`, `$?`
-- Bash-compliant error handling for malformed input
-
-#### ⚙️ Execution Engine (by @gzovkic)
-- Builtin and external command execution
-- Pipeline construction with `pipe()` and `dup2()`
-- Redirection logic and heredoc handling
-- Process lifecycle, signals, and exit code tracking
-
 ---
 
-### 🌌 [fract'ol](https://github.com/dreule/fract-ol)
+### 🌌 [`fract'ol`](https://github.com/dreule/fract-ol)
 An interactive fractal explorer using MiniLibX.  
 Supports zooming, mouse-driven navigation, and color-shifting effects.
 
 > Features Mandelbrot, Julia, Burning Ship, and more.
-
-🎨 Bonus features:
-- Smooth zoom around mouse
-- Arrow-key panning
-- Dynamic palette cycling
 
 <p align="center">
   <a href="https://github.com/dreule/fract-ol/blob/main/screenshots/julia.png" target="_blank">
@@ -76,7 +65,7 @@ Supports zooming, mouse-driven navigation, and color-shifting effects.
 ## 🤝 Let's Connect
 
 - 🌐 [42 Profile](https://profile.intra.42.fr/users/dreule)
-- 📫 [LinkedIn](https://www.linkedin.com/in/dreule/) *(optional — let me know if you want it added)*
+- 📫 [LinkedIn](https://www.linkedin.com/in/dreule/) *(optional — let me know if you'd like to include it)*
 
 ---
 
