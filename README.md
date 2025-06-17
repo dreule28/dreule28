@@ -8,7 +8,7 @@
 
 ## 🔧 Currently Building
 
-### 🎯 [`miniRT`](https://github.com/dreule/miniRT) (in progress)
+### 🎯 [`miniRT`](https://github.com/dreule28/miniRT) (in progress)
 A beginner-friendly ray tracer written in C using MLX42.  
 Working with [@gzovkic](https://github.com/gzovkic) once again to simulate light, shadows, and 3D objects using math—not magic.
 
@@ -19,14 +19,14 @@ Working with [@gzovkic](https://github.com/gzovkic) once again to simulate light
 
 ## 🐚 Highlight Projects
 
-### 🐚 [`minishell`](https://github.com/dreule/minishell)
+### 🐚 [`minishell`](https://github.com/dreule28/minishell)
 A custom UNIX shell built from scratch — includes pipes, redirections, signals, environment expansion, and more.
 
-> 👤 Parsing: [@dreule](https://github.com/dreule)  
+> 👤 Parsing: [@dreule](https://github.com/dreule28)  
 > ⚙️ Execution: [@gzovkic](https://github.com/gzovkic)
 ---
 
-### 🌌 [`fract'ol`](https://github.com/dreule/fract-ol)
+### 🌌 [`fract'ol`](https://github.com/dreule28/fract-ol)
 An interactive fractal explorer using MiniLibX.  
 Supports zooming, mouse-driven navigation, and color-shifting effects.
 
@@ -44,11 +44,11 @@ Supports zooming, mouse-driven navigation, and color-shifting effects.
 
 | Project        | Description                                          | Link                                  |
 |----------------|------------------------------------------------------|---------------------------------------|
-| `ft_printf`    | Custom `printf()` implementation                     | [Repo](https://github.com/dreule/ft_printf) |
-| `get_next_line`| Line-by-line file reader using static buffers        | [Repo](https://github.com/dreule/get_next_line) |
-| `minitalk`     | Binary message passing via UNIX signals              | [Repo](https://github.com/dreule/minitalk) |
-| `push_swap`    | Stack-sorting algorithm using custom instructions    | [Repo](https://github.com/dreule/push_swap) |
-| `philosophers` | Thread-safe dining philosophers simulation           | [Repo](https://github.com/dreule/philosophers) |
+| `ft_printf`    | Custom `printf()` implementation                     | [Repo](https://github.com/dreule28/ft_printf) |
+| `get_next_line`| Line-by-line file reader using static buffers        | [Repo](https://github.com/dreule28/get_next_line) |
+| `minitalk`     | Binary message passing via UNIX signals              | [Repo](https://github.com/dreule28/minitalk) |
+| `push_swap`    | Stack-sorting algorithm using custom instructions    | [Repo](https://github.com/dreule28/push_swap) |
+| `philosophers` | Thread-safe dining philosophers simulation           | [Repo](https://github.com/dreule28/philosophers) |
 
 ---
 
