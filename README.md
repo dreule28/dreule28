@@ -33,7 +33,7 @@ Supports zooming, mouse-driven navigation, and color-shifting effects.
 > Features Mandelbrot, Julia, Burning Ship, and more.
 
 <p align="center">
-  <a href="https://github.com/dreule/fract-ol/blob/main/screenshots/julia.png" target="_blank">
+  <a href="https://github.com/user-attachments/assets/5bce77b5-0194-4e1d-8e1f-3507b53d49f0" target="_blank">
     <img src="https://img.shields.io/badge/View-Julia_Screenshot-blue?style=for-the-badge" alt="Julia Screenshot"/>
   </a>
 </p>
