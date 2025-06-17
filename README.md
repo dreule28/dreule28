@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Daniel 👋</h1>
 <p align="center">
-  🧠 From metalworking to memory-safe systems<br>
-  🎓 Peer at 42 Heilbronn · Creative C hacker · Parser enjoyer
+  🧠 Building memory-safe systems from forged logic<br>
+  🎓 Peer at 42 Heilbronn · Systems thinker
 </p>
 
 ---
@@ -68,6 +68,4 @@ Supports zooming, mouse-driven navigation, and color-shifting effects.
 
 ---
 
-<p align="center">
-  <em>"Never memorize what you can visualize." – me, probably</em>
-</p>
+
