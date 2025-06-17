@@ -30,7 +30,7 @@ A custom UNIX shell built from scratch — includes pipes, redirections, signals
 An interactive fractal explorer using MiniLibX.  
 Supports zooming, mouse-driven navigation, and color-shifting effects.
 
-> Features Mandelbrot, Julia, Burning Ship, and more.
+> Features Mandelbrot, Julia and Burning Ship.
 
 <p align="center">
   <a href="https://github.com/user-attachments/assets/5bce77b5-0194-4e1d-8e1f-3507b53d49f0" target="_blank">
@@ -65,7 +65,6 @@ Supports zooming, mouse-driven navigation, and color-shifting effects.
 ## 🤝 Let's Connect
 
 - 🌐 [42 Profile](https://profile.intra.42.fr/users/dreule)
-- 📫 [LinkedIn](https://www.linkedin.com/in/dreule/) *(optional — let me know if you'd like to include it)*
 
 ---
 
