@@ -1,19 +1,20 @@
-<h1 align="center">Hi, I'm Daniel 👋</h1>
+<h1 align="center">Hey, I'm Daniel 👋</h1>
 <p align="center">
   🧠 Building memory-safe systems from forged logic<br>
-  🎓 Peer at 42 Heilbronn · Systems thinker
+  🎓 Peer at 42 Heilbronn 
 </p>
 
 ---
 
-## 🔧 Currently Building
+## 🚀 Latest Project
 
-### 🎯 [`miniRT`](https://github.com/dreule28/miniRT) (in progress)
-A beginner-friendly ray tracer written in C using MLX42.  
-Working with [@gzovkic](https://github.com/gzovkic) once again to simulate light, shadows, and 3D objects using math—not magic.
+### 🎯 [`miniRT`](https://github.com/dreule28/miniRT)
+A **ray tracer** written in **C** using **MLX42**.  
+Built with [@gzovkic](https://github.com/gzovkic) — we simulated **light, shadows, reflections, and 3D geometry** through math, not magic.
 
-> ☀️ Features in progress: ambient & diffuse lighting, object intersection, camera rotation  
-> 🔁 Objects: planes, spheres, cylinders — and soon, maybe more...
+> ☀️ Implements ambient, diffuse, and specular lighting  
+> 🎥 Supports multiple objects (spheres, planes, cylinders) and camera movement  
+> 💡 Focused on clean architecture and numerical stability
 
 ---
 
@@ -24,6 +25,7 @@ A custom UNIX shell built from scratch — includes pipes, redirections, signals
 
 > 👤 Parsing: [@dreule](https://github.com/dreule28)  
 > ⚙️ Execution: [@gzovkic](https://github.com/gzovkic)
+
 ---
 
 ### 🌌 [`fract'ol`](https://github.com/dreule28/fract-ol)
@@ -65,7 +67,3 @@ Supports zooming, mouse-driven navigation, and color-shifting effects.
 ## 🤝 Let's Connect
 
 - 🌐 [42 Profile](https://profile.intra.42.fr/users/dreule)
-
----
-
-
