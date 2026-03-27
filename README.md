@@ -1,69 +1,45 @@
-<h1 align="center">Hey, I'm Daniel 👋</h1>
-<p align="center">
-  🧠 Building memory-safe systems from forged logic<br>
-  🎓 Peer at 42 Heilbronn 
-</p>
+# Hey, I'm Daniel
+
+I'm a peer at [42 Heilbronn](https://profile.intra.42.fr/users/dreule) — mostly writing C, C++ and Go, usually somewhere close to the metal.
 
 ---
 
-## 🚀 Latest Project
+## What I've worked on
 
-### 🎯 [`miniRT`](https://github.com/dreule28/miniRT)
-A **ray tracer** written in **C** using **MLX42**.  
-Built with [@gzovkic](https://github.com/gzovkic) — we simulated **light, shadows, reflections, and 3D geometry** through math, not magic.
+### [level3-cloud](https://github.com/dreule28/level3-cloud)
 
-> ☀️ Implements ambient, diffuse, and specular lighting  
-> 🎥 Supports multiple objects (spheres, planes, cylinders) and camera movement  
-> 💡 Focused on clean architecture and numerical stability
+A six-week project where I built a full cloud platform from scratch — starting with bare OpenStack, spinning up Kubernetes through Terraform and Ansible, implementing a managed database service with CRDs and Operators, then layering on a Go REST API with JWT auth and a Vue.js frontend. Everything deployed via ArgoCD GitOps behind TLS ingress.
+
+`OpenStack` `Terraform` `Ansible` `Kubernetes` `Go` `Echo` `Vue.js` `ArgoCD` `k6`
 
 ---
 
-## 🐚 Highlight Projects
+## Highlights
 
-### 🐚 [`minishell`](https://github.com/dreule28/minishell)
-A custom UNIX shell built from scratch — includes pipes, redirections, signals, environment expansion, and more.
+### [miniRT](https://github.com/dreule28/miniRT)
 
-> 👤 Parsing: [@dreule](https://github.com/dreule28)  
-> ⚙️ Execution: [@gzovkic](https://github.com/gzovkic)
+A ray tracer in C using MLX42 — renders spheres, planes, and cylinders with ambient, diffuse, and specular lighting. Built with [@gzovkic](https://github.com/gzovkic).
 
----
+### [minishell](https://github.com/dreule28/minishell)
 
-### 🌌 [`fract'ol`](https://github.com/dreule28/fract-ol)
-An interactive fractal explorer using MiniLibX.  
-Supports zooming, mouse-driven navigation, and color-shifting effects.
+A UNIX shell from scratch. Pipes, redirections, signals, heredocs, env expansion — I did the parsing, [@gzovkic](https://github.com/gzovkic) handled execution.
 
-> Features Mandelbrot, Julia and Burning Ship.
+### [fract'ol](https://github.com/dreule28/fract-ol)
 
-<p align="center">
-  <a href="https://github.com/user-attachments/assets/5bce77b5-0194-4e1d-8e1f-3507b53d49f0" target="_blank">
-    <img src="https://img.shields.io/badge/View-Julia_Screenshot-blue?style=for-the-badge" alt="Julia Screenshot"/>
-  </a>
-</p>
+Interactive fractal explorer with deep zoom, mouse navigation, and color shifting. Supports Mandelbrot, Julia, and Burning Ship.
 
 ---
 
-## 🛠️ Core Projects
+## More 42 projects
 
-| Project        | Description                                          | Link                                  |
-|----------------|------------------------------------------------------|---------------------------------------|
-| `ft_printf`    | Custom `printf()` implementation                     | [Repo](https://github.com/dreule28/ft_printf) |
-| `get_next_line`| Line-by-line file reader using static buffers        | [Repo](https://github.com/dreule28/get_next_line) |
-| `minitalk`     | Binary message passing via UNIX signals              | [Repo](https://github.com/dreule28/minitalk) |
-| `push_swap`    | Stack-sorting algorithm using custom instructions    | [Repo](https://github.com/dreule28/push_swap) |
-| `philosophers` | Thread-safe dining philosophers simulation           | [Repo](https://github.com/dreule28/philosophers) |
+[ft_printf](https://github.com/dreule28/ft_printf) — custom `printf()` implementation
+[get_next_line](https://github.com/dreule28/get_next_line) — line-by-line reader using static buffers
+[minitalk](https://github.com/dreule28/minitalk) — message passing via UNIX signals
+[push_swap](https://github.com/dreule28/push_swap) — stack sorting with minimal operations
+[philosophers](https://github.com/dreule28/philosophers) — dining philosophers, thread-safe
 
 ---
 
-## 🧰 Toolbox
+## What I work with
 
-- C (strictly norm-compliant)
-- POSIX syscalls (`fork`, `execve`, `pipe`, etc.)
-- MLX42 for graphics
-- Parsing theory + shell grammar
-- Git & Makefiles
-
----
-
-## 🤝 Let's Connect
-
-- 🌐 [42 Profile](https://profile.intra.42.fr/users/dreule)
+C · C++ · Go · Terraform · Kubernetes · Docker · Git · Make
